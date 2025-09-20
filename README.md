@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**eliisapal/eliisapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 2nd year ICT student at LAB University of Applied sciences. **eliisapal/eliisapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
